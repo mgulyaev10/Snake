@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#aaaeb3</color>
+    <color name="empty_square">#FFFFFF</color>
+    <color name="snake_square">#2c2d2e</color>
+    <color name="eat_square">#FF5C5C</color>
+</resources>
